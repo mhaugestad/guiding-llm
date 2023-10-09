@@ -1,9 +1,0 @@
-git+https://github.com/eth-sri/lmql
-guidance
-openai
-transformers
-accelerate
-outlines
-python-dotenv
-redis
-redis-om
